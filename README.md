@@ -77,6 +77,11 @@ html-css/
 │   └── ...
 │
 ├── modulo-03/
+│   ├── README.md
+│   ├── ex022/
+│   ├── ex023/
+│   └── desafio012/
+│
 ├── modulo-04/
 │
 └── desafios/
@@ -88,7 +93,7 @@ A estrutura poderá ser ampliada conforme novos conteúdos, desafios e projetos 
 
 ## 📚 Conteúdos
 
-Ao longo do repositório, serão estudados e praticados conteúdos relacionados a:
+Ao longo do repositório, são estudados e praticados conteúdos relacionados a:
 
 ### HTML5
 
@@ -120,10 +125,16 @@ Ao longo do repositório, serão estudados e praticados conteúdos relacionados 
 * Box Model;
 * Bordas;
 * Margens e espaçamentos;
-* Posicionamento;
+* Imagens de fundo;
+* `background`;
+* Posicionamento de elementos;
+* Sombras;
+* Bordas personalizadas;
+* Tabelas e estilização;
 * Flexbox;
 * Grid Layout;
-* Responsividade.
+* Responsividade;
+* Efeitos visuais e parallax.
 
 > Esta lista será atualizada conforme novos conteúdos forem estudados e adicionados ao repositório.
 
@@ -153,30 +164,32 @@ Este repositório acompanha minha evolução no desenvolvimento **Front-end**, r
 
 A organização por módulos permite acompanhar essa evolução de maneira progressiva, conforme novos conhecimentos são adquiridos e aplicados na prática.
 
+Cada exercício representa uma etapa do aprendizado, permitindo visualizar não apenas os conteúdos estudados, mas também a evolução na organização e qualidade do código.
+
 ---
 
 ## 📌 Próximos passos
 
-Após consolidar os fundamentos de HTML5 e CSS3, os próximos estudos serão direcionados para o desenvolvimento de aplicações Front-end utilizando:
+Após consolidar os fundamentos de HTML5 e CSS3, os próximos estudos serão direcionados principalmente para:
 
 * JavaScript;
 * React;
 * TypeScript;
 * Node.js.
 
-O objetivo é evoluir gradualmente dos fundamentos de desenvolvimento web para a construção de aplicações completas.
+A evolução será gradual, partindo dos fundamentos de desenvolvimento web para a criação de aplicações Front-end mais completas e, posteriormente, para o desenvolvimento Full Stack.
 
 ---
 
 ## 📚 Progresso dos estudos
 
-|     Módulo    | Conteúdo                          |         Status        |
-| :-----------: | --------------------------------- | :-------------------: |
-| **Módulo 01** | Primeiros passos com HTML5 e CSS3 |      ✅ Concluído      |
-| **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3   |    🚧 Em andamento    |
-| **Módulo 03** | A definir                         |           ⏳           |
-| **Módulo 04** | A definir                         |           ⏳           |
-|  **Desafios** | Exercícios e projetos práticos    | 🚧 Em desenvolvimento |
+|     Módulo    | Conteúdo                                    |         Status        |
+| :-----------: | ------------------------------------------- | :-------------------: |
+| **Módulo 01** | Primeiros passos com HTML5 e CSS3           |      ✅ Concluído      |
+| **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3             |      ✅ Concluído      |
+| **Módulo 03** | Imagens de fundo, tabelas e efeitos visuais |    🚧 Em andamento    |
+| **Módulo 04** | A definir                                   |           ⏳           |
+|  **Desafios** | Exercícios e projetos práticos              | 🚧 Em desenvolvimento |
 
 ---
 
