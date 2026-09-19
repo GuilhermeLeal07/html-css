@@ -79,13 +79,18 @@ html-css/
 ├── modulo-03/
 │   ├── README.md
 │   ├── ex022/
-│   ├── ex023/
-│   └── desafio012/
+│   └── ex023/
 │
 ├── modulo-04/
+│   ├── README.md
+│   ├── ex024/
+│   ├── ex025/
+│   └── ...
 │
 └── desafios/
 ```
+
+Os desafios são mantidos separadamente dos módulos de estudo, permitindo que exercícios práticos e projetos possam ser desenvolvidos e documentados de forma independente.
 
 A estrutura poderá ser ampliada conforme novos conteúdos, desafios e projetos forem desenvolvidos.
 
@@ -183,13 +188,13 @@ A evolução será gradual, partindo dos fundamentos de desenvolvimento web para
 
 ## 📚 Progresso dos estudos
 
-|     Módulo    | Conteúdo                                    |         Status        |
-| :-----------: | ------------------------------------------- | :-------------------: |
-| **Módulo 01** | Primeiros passos com HTML5 e CSS3           |      ✅ Concluído      |
-| **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3             |      ✅ Concluído      |
-| **Módulo 03** | Imagens de fundo, tabelas e efeitos visuais |    🚧 Em andamento    |
-| **Módulo 04** | A definir                                   |           ⏳           |
-|  **Desafios** | Exercícios e projetos práticos              | 🚧 Em desenvolvimento |
+|     Módulo    | Conteúdo                                   |         Status        |
+| :-----------: | ------------------------------------------ | :-------------------: |
+| **Módulo 01** | Primeiros passos com HTML5 e CSS3          |      ✅ Concluído      |
+| **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3            |      ✅ Concluído      |
+| **Módulo 03** | Imagens de fundo, posicionamento e tabelas |      ✅ Concluído      |
+| **Módulo 04** | Iframes, formulários e responsividade      |    🚧 Em andamento    |
+|  **Desafios** | Exercícios e projetos práticos             | 🚧 Em desenvolvimento |
 
 ---
 
