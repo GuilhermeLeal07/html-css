@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de iframes</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 20px;
+        }
+
+        iframe#tela {
+            width: 95vw;
+            height: 400px;
+            border: 2px solid black;
+            margin-top: 20px;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Faça uma escolha</h1>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Distinctio aperiam optio nesciunt atque reiciendis!
+    </p>
+
+    <ul>
+        <li>
+            <a href="#" onclick="abrirIframe(1); return false;">
+                Primeira página
+            </a>
+        </li>
+
+        <li>
+            <a href="#" onclick="abrirIframe(2); return false;">
+                Segunda página
+            </a>
+        </li>
+
+        <li>
+            <a href="#" onclick="abrirIframe(3); return false;">
+                Terceira página
+            </a>
+        </li>
+    </ul>
+
+    <iframe
+        id="tela"
+        name="frame"
+        srcdoc="<h1>Escolha uma das opções</h1>"
+        title="Área de conteúdo">
+        <p>
+            Infelizmente seu navegador não é compatível com iframes.
+        </p>
+    </iframe>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Fugit voluptatibus at corrupti iste fuga minima aliquam...
+    </p>
+
+    <script>
+        function abrirIframe(pagina) {
+            const iframe = document.getElementById("tela");
+
+            const conteudos = {
+                1: "<h2>Primeira Página</h2><p>Conteúdo da primeira página.</p>",
+                2: "<h2>Segunda Página</h2><p>Conteúdo da segunda página.</p>",
+                3: "<h2>Terceira Página</h2><p>Conteúdo da terceira página.</p>"
+            };
+
+            iframe.srcdoc = conteudos[pagina];
+        }
+    </script>
+</body>
+</html>
