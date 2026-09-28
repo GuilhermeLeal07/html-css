@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de formulário</title>
+</head>
+<body>
+    <h1>Teste de formulário</h1>
+
+    <!--
+        Todo formulário deve estar entre as tags form.
+        - size: define o tamanho visual do campo.
+        - placeholder: apresenta uma dica sobre o que deve ser digitado.
+    -->
+
+    <form action="cadastro.php" method="post" autocomplete="off">
+        <p>
+            <label for="iusu">Usuário:</label>
+            <input
+                type="text"
+                name="usu"
+                id="iusu"
+                required
+                minlength="5"
+                maxlength="15"
+                size="15"
+                placeholder="Nome do usuário"
+            >
+        </p>
+
+        <p>
+            <label for="isen">Senha:</label>
+            <input
+                type="password"
+                name="sen"
+                id="isen"
+                required
+                minlength="8"
+                maxlength="20"
+                size="15"
+                placeholder="Campo senha"
+            >
+        </p>
+
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+</html>
