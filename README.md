@@ -4,26 +4,25 @@ Este repositório reúne meus estudos e práticas de **HTML5** e **CSS3** durant
 
 O objetivo é construir uma base sólida em desenvolvimento web, documentando minha evolução por meio de **exercícios, desafios e pequenos projetos**, organizados de forma progressiva e padronizada.
 
-Os conteúdos são estruturados de acordo com cada etapa dos estudos, mantendo a proposta original dos exercícios e aplicando, sempre que possível, boas práticas de organização, legibilidade, documentação e versionamento.
+Os conteúdos acompanham cada etapa dos estudos, preservando a proposta original dos exercícios e aplicando boas práticas de organização, legibilidade, documentação e versionamento.
 
 ---
 
 ## 📖 Sobre o repositório
 
-Este repositório representa minha jornada de aprendizado em **HTML5 e CSS3**, desde os primeiros conceitos de estruturação de páginas até a criação de interfaces mais completas.
+Este repositório registra minha evolução em **HTML5 e CSS3**, desde os primeiros conceitos de estruturação de páginas até a criação de interfaces mais completas e responsivas.
 
-Os exercícios são organizados em módulos, permitindo acompanhar de forma clara a evolução dos conhecimentos adquiridos ao longo dos estudos.
+Os exercícios são organizados em módulos, permitindo acompanhar os conhecimentos adquiridos ao longo dos estudos.
 
 Durante a organização dos projetos, procuro aprimorar aspectos como:
 
-* organização do código;
-* legibilidade;
-* HTML semântico;
-* estruturação do CSS;
-* acessibilidade básica;
-* padronização de arquivos e pastas;
-* documentação;
-* versionamento com Git e GitHub.
+- Organização e legibilidade do código;
+- HTML semântico;
+- Estruturação e organização do CSS;
+- Acessibilidade básica;
+- Padronização de arquivos e pastas;
+- Documentação;
+- Versionamento com Git e GitHub.
 
 As melhorias realizadas buscam **preservar a proposta original de cada exercício**, sem descaracterizar o conteúdo estudado.
 
@@ -31,33 +30,30 @@ As melhorias realizadas buscam **preservar a proposta original de cada exercíci
 
 ## 🎯 Objetivos
 
-* Desenvolver uma base sólida em HTML5 e CSS3.
-* Compreender os principais conceitos do desenvolvimento Front-end.
-* Aprender e aplicar boas práticas de organização de código.
-* Desenvolver páginas estruturadas e visualmente organizadas.
-* Documentar minha evolução durante os estudos.
-* Construir um portfólio consistente no GitHub.
-* Praticar versionamento utilizando Git e GitHub.
+- Desenvolver uma base sólida em HTML5 e CSS3.
+- Compreender os principais conceitos do desenvolvimento Front-end.
+- Aplicar boas práticas de organização e escrita de código.
+- Desenvolver páginas estruturadas, acessíveis e responsivas.
+- Documentar minha evolução durante os estudos.
+- Construir um portfólio consistente no GitHub.
+- Praticar versionamento utilizando Git e GitHub.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e ferramentas
 
-* HTML5
-* CSS3
-* Git
-* GitHub
-* Visual Studio Code
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
 ## 📂 Organização do repositório
 
-Os conteúdos estão organizados em **módulos**, acompanhando a evolução dos estudos.
-
-Cada módulo possui seu próprio `README.md`, apresentando os principais conteúdos abordados naquela etapa.
-
-Os exercícios também são organizados individualmente, mantendo uma estrutura simples e consistente.
+Os conteúdos estão organizados em módulos que acompanham a evolução dos estudos. Cada módulo possui seu próprio `README.md`, com a apresentação dos conteúdos e dos exercícios correspondentes.
 
 ```text
 html-css/
@@ -66,14 +62,10 @@ html-css/
 │
 ├── modulo-01/
 │   ├── README.md
-│   ├── ex001/
-│   ├── ex002/
 │   └── ...
 │
 ├── modulo-02/
 │   ├── README.md
-│   ├── ex016/
-│   ├── ex017/
 │   └── ...
 │
 ├── modulo-03/
@@ -85,122 +77,125 @@ html-css/
 │   ├── README.md
 │   ├── ex024/
 │   ├── ex025/
-│   └── ...
+│   └── ex026/
+│
+├── modulo-05/
+│   ├── README.md
+│   ├── ex027/
+│   ├── ex028/
+│   └── projeto-portfolio/
 │
 └── desafios/
 ```
 
-Os desafios são mantidos separadamente dos módulos de estudo, permitindo que exercícios práticos e projetos possam ser desenvolvidos e documentados de forma independente.
+A estrutura poderá ser ampliada conforme novos conteúdos, exercícios e projetos forem desenvolvidos.
 
-A estrutura poderá ser ampliada conforme novos conteúdos, desafios e projetos forem desenvolvidos.
+Os desafios e projetos independentes podem receber repositórios próprios, com documentação específica, para facilitar sua apresentação como trabalhos de portfólio.
 
 ---
 
-## 📚 Conteúdos
-
-Ao longo do repositório, são estudados e praticados conteúdos relacionados a:
+## 📚 Conteúdos estudados
 
 ### HTML5
 
-* Estrutura básica de documentos HTML;
-* Títulos e parágrafos;
-* Formatação de textos;
-* Links internos e externos;
-* Imagens;
-* Favicon;
-* Listas;
-* Citações;
-* Áudio e vídeo;
-* HTML semântico;
-* Formulários;
-* Tabelas;
-* Estruturação de páginas.
+- Estrutura básica de documentos HTML;
+- Títulos e parágrafos;
+- Formatação de textos;
+- Links internos e externos;
+- Imagens e favicons;
+- Listas e citações;
+- Áudio e vídeo;
+- HTML semântico;
+- Formulários e validação de campos;
+- Tabelas;
+- Iframes;
+- Incorporação de conteúdos externos;
+- Estruturação de páginas.
 
 ### CSS3
 
-* CSS Inline, Interno e Externo;
-* Seletores;
-* Cores;
-* Gradientes;
-* Tipografia;
-* Fontes externas;
-* Classes e IDs;
-* Pseudo-classes;
-* Pseudo-elementos;
-* Box Model;
-* Bordas;
-* Margens e espaçamentos;
-* Imagens de fundo;
-* `background`;
-* Posicionamento de elementos;
-* Sombras;
-* Bordas personalizadas;
-* Tabelas e estilização;
-* Flexbox;
-* Grid Layout;
-* Responsividade;
-* Efeitos visuais e parallax.
+- CSS Inline, Interno e Externo;
+- Seletores, classes e IDs;
+- Cores e gradientes;
+- Tipografia e fontes externas;
+- Pseudo-classes e pseudo-elementos;
+- Box Model;
+- Bordas, margens e espaçamentos;
+- Imagens de fundo e propriedades `background`;
+- Posicionamento de elementos;
+- Sombras e bordas personalizadas;
+- Estilização de tabelas;
+- Flexbox;
+- Grid Layout;
+- Media Queries;
+- Mobile First;
+- Responsividade;
+- Efeitos visuais e parallax.
 
-> Esta lista será atualizada conforme novos conteúdos forem estudados e adicionados ao repositório.
+A lista será atualizada conforme novos conteúdos forem estudados e adicionados ao repositório.
 
 ---
 
-## 🛠️ Organização dos projetos
+## 🛠️ Organização e revisão dos exercícios
 
 Os exercícios seguem um padrão de organização que busca manter os projetos simples, legíveis e fáceis de compreender.
 
 Sempre que necessário, são realizadas melhorias relacionadas a:
 
-* organização das pastas;
-* padronização dos arquivos;
-* indentação;
-* nomenclatura;
-* legibilidade;
-* documentação;
-* boas práticas de HTML e CSS.
+- Estrutura de pastas e arquivos;
+- Indentação e nomenclatura;
+- Legibilidade do código;
+- HTML semântico e acessibilidade básica;
+- Organização do CSS e do JavaScript;
+- Documentação e boas práticas.
 
-Essas melhorias têm como objetivo facilitar a compreensão e manutenção dos projetos, **sem alterar a finalidade original de cada exercício**.
+Essas melhorias têm como objetivo facilitar a compreensão e a manutenção dos projetos, **sem alterar a finalidade original de cada exercício**.
 
 ---
 
-## 📈 Evolução
+## 📈 Evolução dos estudos
 
-Este repositório acompanha minha evolução no desenvolvimento **Front-end**, registrando desde os primeiros conceitos de HTML e CSS até a construção de páginas e projetos mais completos.
+O repositório acompanha minha evolução no desenvolvimento Front-end, registrando os conceitos aprendidos e sua aplicação prática.
 
-A organização por módulos permite acompanhar essa evolução de maneira progressiva, conforme novos conhecimentos são adquiridos e aplicados na prática.
+A organização por módulos permite visualizar essa evolução de maneira progressiva, desde os fundamentos de HTML e CSS até a construção de interfaces com layouts flexíveis, organização em grade e adaptação a diferentes tamanhos de tela.
 
-Cada exercício representa uma etapa do aprendizado, permitindo visualizar não apenas os conteúdos estudados, mas também a evolução na organização e qualidade do código.
+Cada exercício representa uma etapa do aprendizado e contribui para o desenvolvimento de uma base técnica consistente.
 
 ---
 
 ## 📌 Próximos passos
 
-Após consolidar os fundamentos de HTML5 e CSS3, os próximos estudos serão direcionados principalmente para:
+A continuidade dos estudos será direcionada ao aprofundamento dos conhecimentos em desenvolvimento web e à aplicação prática dos conceitos aprendidos.
 
-* JavaScript;
-* React;
-* TypeScript;
-* Node.js.
+Entre os próximos objetivos estão:
 
-A evolução será gradual, partindo dos fundamentos de desenvolvimento web para a criação de aplicações Front-end mais completas e, posteriormente, para o desenvolvimento Full Stack.
+- Consolidar os fundamentos de HTML5 e CSS3;
+- Aprofundar os conhecimentos em JavaScript;
+- Desenvolver interfaces utilizando React;
+- Estudar TypeScript;
+- Avançar posteriormente para Node.js;
+- Criar projetos independentes para o portfólio.
+
+A evolução será gradual, respeitando a sequência de aprendizado e priorizando a compreensão dos conceitos antes de avançar para ferramentas e tecnologias mais complexas.
 
 ---
 
 ## 📚 Progresso dos estudos
 
-|     Módulo    | Conteúdo                                   |         Status        |
-| :-----------: | ------------------------------------------ | :-------------------: |
-| **Módulo 01** | Primeiros passos com HTML5 e CSS3          |      ✅ Concluído      |
-| **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3            |      ✅ Concluído      |
-| **Módulo 03** | Imagens de fundo, posicionamento e tabelas |      ✅ Concluído      |
-| **Módulo 04** | Iframes, formulários e responsividade      |    🚧 Em andamento    |
-|  **Desafios** | Exercícios e projetos práticos             | 🚧 Em desenvolvimento |
+| Módulo | Conteúdo | Status |
+|:---:|---|:---:|
+| **Módulo 01** | Primeiros passos com HTML5 e CSS3 | ✅ Concluído |
+| **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3 | ✅ Concluído |
+| **Módulo 03** | Imagens de fundo, posicionamento e tabelas | ✅ Concluído |
+| **Módulo 04** | Iframes, formulários e responsividade | ✅ Concluído |
+| **Módulo 05** | Flexbox, Grid Layout e projeto de portfólio | 🚧 Em andamento |
+| **Desafios** | Exercícios e projetos práticos independentes | 🚧 Em desenvolvimento |
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **Licença MIT**.
+Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENSE` para obter os termos da licença.
 
 ---
 
