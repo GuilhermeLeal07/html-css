@@ -82,9 +82,8 @@ html-css/
 ├── modulo-05/
 │   ├── README.md
 │   ├── ex027/
-│   ├── ex028/
-│   └── projeto-portfolio/
-│
+│   └── ex028/
+│  
 └── desafios/
 ```
 
