@@ -2,7 +2,7 @@
 
 Este repositório reúne meus estudos e práticas de **HTML5** e **CSS3** durante minha formação em Desenvolvimento Front-end.
 
-O objetivo é construir uma base sólida em desenvolvimento web, documentando minha evolução por meio de **exercícios, desafios e pequenos projetos**, organizados de forma progressiva e padronizada.
+O objetivo é construir uma base sólida em desenvolvimento web, documentando minha evolução por meio de **exercícios, desafios e projetos práticos**, organizados de forma progressiva e padronizada.
 
 Os conteúdos acompanham cada etapa dos estudos, preservando a proposta original dos exercícios e aplicando boas práticas de organização, legibilidade, documentação e versionamento.
 
@@ -12,14 +12,15 @@ Os conteúdos acompanham cada etapa dos estudos, preservando a proposta original
 
 Este repositório registra minha evolução em **HTML5 e CSS3**, desde os primeiros conceitos de estruturação de páginas até a criação de interfaces mais completas e responsivas.
 
-Os exercícios são organizados em módulos, permitindo acompanhar os conhecimentos adquiridos ao longo dos estudos.
+Os exercícios estão organizados em módulos, permitindo acompanhar os conhecimentos adquiridos ao longo dos estudos. Com a conclusão dessa etapa, o repositório passa a incorporar também desafios práticos e projetos independentes, voltados à aplicação dos conceitos aprendidos.
 
-Durante a organização dos projetos, procuro aprimorar aspectos como:
+Durante a organização e o desenvolvimento dos trabalhos, procuro aprimorar aspectos como:
 
 - Organização e legibilidade do código;
 - HTML semântico;
 - Estruturação e organização do CSS;
 - Acessibilidade básica;
+- Responsividade;
 - Padronização de arquivos e pastas;
 - Documentação;
 - Versionamento com Git e GitHub.
@@ -30,11 +31,12 @@ As melhorias realizadas buscam **preservar a proposta original de cada exercíci
 
 ## 🎯 Objetivos
 
-- Desenvolver uma base sólida em HTML5 e CSS3.
-- Compreender os principais conceitos do desenvolvimento Front-end.
-- Aplicar boas práticas de organização e escrita de código.
+- Consolidar os conhecimentos em HTML5 e CSS3.
+- Aplicar os principais conceitos do desenvolvimento Front-end.
 - Desenvolver páginas estruturadas, acessíveis e responsivas.
-- Documentar minha evolução durante os estudos.
+- Aprimorar a organização e a escrita do código.
+- Praticar a resolução de problemas por meio de desafios.
+- Desenvolver projetos independentes para aplicar os conhecimentos adquiridos.
 - Construir um portfólio consistente no GitHub.
 - Praticar versionamento utilizando Git e GitHub.
 
@@ -54,6 +56,8 @@ As melhorias realizadas buscam **preservar a proposta original de cada exercíci
 ## 📂 Organização do repositório
 
 Os conteúdos estão organizados em módulos que acompanham a evolução dos estudos. Cada módulo possui seu próprio `README.md`, com a apresentação dos conteúdos e dos exercícios correspondentes.
+
+Após a conclusão dos módulos, a pasta `desafios/` passa a reunir atividades práticas desenvolvidas para aplicar e aprofundar os conhecimentos adquiridos.
 
 ```text
 html-css/
@@ -83,13 +87,14 @@ html-css/
 │   ├── README.md
 │   ├── ex027/
 │   └── ex028/
-│  
+│
 └── desafios/
+    └── ...
 ```
 
-A estrutura poderá ser ampliada conforme novos conteúdos, exercícios e projetos forem desenvolvidos.
+A estrutura poderá ser ampliada conforme novos desafios e projetos forem desenvolvidos.
 
-Os desafios e projetos independentes podem receber repositórios próprios, com documentação específica, para facilitar sua apresentação como trabalhos de portfólio.
+Projetos com escopo mais completo poderão receber repositórios próprios, com documentação específica, facilitando sua apresentação e utilização como trabalhos de portfólio.
 
 ---
 
@@ -131,7 +136,7 @@ Os desafios e projetos independentes podem receber repositórios próprios, com 
 - Responsividade;
 - Efeitos visuais e parallax.
 
-A lista será atualizada conforme novos conteúdos forem estudados e adicionados ao repositório.
+A lista será atualizada conforme novos conteúdos forem estudados e aplicados nos desafios e projetos.
 
 ---
 
@@ -150,32 +155,35 @@ Sempre que necessário, são realizadas melhorias relacionadas a:
 
 Essas melhorias têm como objetivo facilitar a compreensão e a manutenção dos projetos, **sem alterar a finalidade original de cada exercício**.
 
+Nos desafios e projetos independentes, o desenvolvimento também considera planejamento, implementação, responsividade e revisão técnica.
+
 ---
 
 ## 📈 Evolução dos estudos
 
 O repositório acompanha minha evolução no desenvolvimento Front-end, registrando os conceitos aprendidos e sua aplicação prática.
 
-A organização por módulos permite visualizar essa evolução de maneira progressiva, desde os fundamentos de HTML e CSS até a construção de interfaces com layouts flexíveis, organização em grade e adaptação a diferentes tamanhos de tela.
+A primeira etapa foi dedicada à construção de uma base em HTML5 e CSS3, passando pela estruturação de páginas, estilização de elementos, posicionamento, Flexbox, Grid Layout e responsividade.
 
-Cada exercício representa uma etapa do aprendizado e contribui para o desenvolvimento de uma base técnica consistente.
+Com a conclusão dos exercícios dos cinco módulos, a próxima etapa concentra-se no desenvolvimento de desafios e projetos práticos, buscando transformar os conhecimentos adquiridos em interfaces completas e funcionais.
 
 ---
 
 ## 📌 Próximos passos
 
-A continuidade dos estudos será direcionada ao aprofundamento dos conhecimentos em desenvolvimento web e à aplicação prática dos conceitos aprendidos.
+A continuidade dos estudos será direcionada ao desenvolvimento de projetos práticos e ao aprofundamento dos conhecimentos em desenvolvimento Front-end.
 
 Entre os próximos objetivos estão:
 
-- Consolidar os fundamentos de HTML5 e CSS3;
-- Aprofundar os conhecimentos em JavaScript;
-- Desenvolver interfaces utilizando React;
-- Estudar TypeScript;
+- Desenvolver desafios utilizando HTML5 e CSS3;
+- Aprimorar a construção de layouts e interfaces responsivas;
+- Consolidar os conhecimentos em JavaScript;
+- Desenvolver aplicações utilizando React;
+- Aprofundar os estudos em TypeScript;
 - Avançar posteriormente para Node.js;
-- Criar projetos independentes para o portfólio.
+- Construir projetos independentes para o portfólio.
 
-A evolução será gradual, respeitando a sequência de aprendizado e priorizando a compreensão dos conceitos antes de avançar para ferramentas e tecnologias mais complexas.
+A evolução será gradual, priorizando a compreensão dos conceitos, a resolução de problemas e a qualidade das implementações.
 
 ---
 
@@ -187,7 +195,7 @@ A evolução será gradual, respeitando a sequência de aprendizado e priorizand
 | **Módulo 02** | Aperfeiçoamento de HTML5 e CSS3 | ✅ Concluído |
 | **Módulo 03** | Imagens de fundo, posicionamento e tabelas | ✅ Concluído |
 | **Módulo 04** | Iframes, formulários e responsividade | ✅ Concluído |
-| **Módulo 05** | Flexbox, Grid Layout e projeto de portfólio | 🚧 Em andamento |
+| **Módulo 05** | Flexbox e Grid Layout | ✅ Concluído |
 | **Desafios** | Exercícios e projetos práticos independentes | 🚧 Em desenvolvimento |
 
 ---
